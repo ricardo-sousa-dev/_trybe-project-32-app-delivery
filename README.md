@@ -1,6 +1,6 @@
 # App de Delivery!
 
-### Este projeto é uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvido em grupo suas funcionalidades de acordo com demandas definidas em um quadro _Kanban_. 
+### Este projeto é uma versão inicial de um e-commerce com banco de dados, de uma **loja online**, desenvolvido em grupo suas funcionalidades de acordo com demandas definidas em um quadro _Kanban_. 
 
 #### Features
 
